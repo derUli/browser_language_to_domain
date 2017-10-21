@@ -1,0 +1,10 @@
+{
+	"id": "browser_language_to_domain",
+	"version": "1.0",
+	"description": "Redirect to sub domain by preferred langauge",
+	"categories": [
+		"tools"
+	],
+	"compatible_from": "2018.1",
+	"dependencies" : ["browser_default_language"]
+}
